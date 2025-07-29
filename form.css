@@ -1,0 +1,108 @@
+body{
+    display: flex;
+    background-image:url(../image/flower4.jpg) ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ 
+.signup{
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    border: 5px solid white;
+    padding: 10px 0;
+    width: 600px;
+    height: 450px;
+    margin: 0 auto;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.signup h1{
+   font-size: 35px;
+   color:white ;
+   text-align: center; 
+   
+}
+.signup h1:hover{
+    color: rgb(204, 146, 69);
+    text-shadow: 7px 7px 5px solid white;
+}
+input{
+    border: 3px solid white;
+    border-radius: 5px;
+    width: 200px;
+    height: 35px;
+    outline: none;
+    border-color: white;
+    border-radius: 8px;
+    color: aliceblue;
+    font-size: medium;
+    background-color: transparent;
+}
+
+button{
+    background-color: white;
+    color: black;
+    width:150px ;
+    height:30px ;
+    border: 2px solid rgb(124, 35, 35) ;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: rgb(218, 167, 100);
+    border: 2px solid white;
+}
+.signup form{
+    background-color: transparent;
+}
+
+label{
+    color: white;
+    margin-right: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
