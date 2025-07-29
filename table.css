@@ -1,0 +1,63 @@
+table{
+    
+    border-collapse:collapse ;
+    width: 100%;
+}
+
+thead{
+    background-color: teal;
+    background-attachment: fixed;
+    color: white;
+}
+tbody{
+    padding-left: 60px;
+}
+table tbody tr{
+border-bottom: 1px solid rgb(229, 222, 222) ;
+}
+
+td,th{
+    padding: 10px;
+    text-align: center;
+}
+
+table tbody tr:hover {
+   background-color: rgb(230, 234, 237);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
